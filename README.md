@@ -3,6 +3,7 @@ LLVM Implementation of different ShadowStack schemes for x86_64
 
 How to build & run:
 ```
+./configure.sh
 cd Compiler-Impl
 make
 ```
